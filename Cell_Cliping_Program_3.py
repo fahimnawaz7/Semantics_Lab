@@ -13,7 +13,7 @@ cell_list = []
 V_line_end_pt = []
 H_line_end_pt = []
 
-with open("table.json") as jfile:
+with open("Data_for_Cell_Cliping_Program.json") as jfile:
     data = json.load(jfile)
 
     for i in range(len(data['table.png']['regions'])):
