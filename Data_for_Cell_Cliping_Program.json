@@ -1,0 +1,13 @@
+{"table.png":{"filename":"table.png","size":11122,"regions":[
+			{"shape_attributes":{"name":"rect","x":460,"y":5,"width":6,"height":254},"region_attributes":{"table":"v_line"}},
+			{"shape_attributes":{"name":"rect","x":3,"y":3,"width":6,"height":254},"region_attributes":{"table":"v_line"}},
+			{"shape_attributes":{"name":"rect","x":156,"y":6,"width":6,"height":254},"region_attributes":{"table":"v_line"}},
+			{"shape_attributes":{"name":"rect","x":613,"y":6,"width":4,"height":254},"region_attributes":{"table":"v_line"}},
+			{"shape_attributes":{"name":"rect","x":309,"y":56,"width":5,"height":203},"region_attributes":{"table":"v_line"}},
+			{"shape_attributes":{"name":"rect","x":3,"y":5,"width":618,"height":4},"region_attributes":{"table":"h_line"}},
+			{"shape_attributes":{"name":"rect","x":3,"y":105,"width":612,"height":4},"region_attributes":{"table":"h_line"}},
+			{"shape_attributes":{"name":"rect","x":4,"y":155,"width":614,"height":5},"region_attributes":{"table":"h_line"}},
+			{"shape_attributes":{"name":"rect","x":3,"y":205,"width":615,"height":6},"region_attributes":{"table":"h_line"}},
+			{"shape_attributes":{"name":"rect","x":5,"y":256,"width":612,"height":4},"region_attributes":{"table":"h_line"}},
+			{"shape_attributes":{"name":"rect","x":155,"y":55,"width":463,"height":6},"region_attributes":{"table":"h_line"}}
+		],"file_attributes":{}}}
